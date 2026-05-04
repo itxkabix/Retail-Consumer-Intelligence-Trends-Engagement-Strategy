@@ -1,4 +1,4 @@
-# Retail-Consumer-Intelligence-Trends-Engagement-Strategy
+# Retail-Consumer-Behavior
 Data-driven analysis of retail customer behavior to uncover trends, improve engagement, and optimize marketing and product strategies.
 
 ## 📌 Project Overview
